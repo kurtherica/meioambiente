@@ -1,107 +1,107 @@
 export const perguntas = [
     {
-        enunciado: "Você está em uma caminhada pelo parque e vê um grupo discutindo sobre o desmatamento na Amazônia. Qual é sua primeira reação?",
+        enunciado: "Você está em um mercado local e percebe que as sacolas plásticas ainda são muito utilizadas. Qual é a sua atitude ao perceber isso?",
         alternativas: [
             {
-                texto: "Isso é preocupante!",
+                texto: "Sugiro que as pessoas comecem a utilizar sacolas reutilizáveis.",
                 afirmacao: [
-                    "Você ficou alarmado com o impacto do desmatamento e começou a pensar em como pode ajudar.",
-                    "Pensou nas consequências devastadoras do desmatamento para o meio ambiente."
+                    "Você toma a iniciativa de conscientizar as pessoas sobre a importância de evitar o uso de plásticos descartáveis.",
+                    "Com o tempo, nota que a sua comunidade adere às sacolas reutilizáveis e o impacto do plástico diminui."
                 ],
                 proxima: 1,
             },
             {
-                texto: "É triste, mas não há muito o que fazer.",
+                texto: "Evito me envolver, mas começo a usar minhas próprias sacolas reutilizáveis.",
                 afirmacao: [
-                    "Embora compreenda a gravidade, sente que as ações individuais são insuficientes.",
-                    "Refletiu sobre como governos e grandes corporações têm maior responsabilidade sobre essa questão."
+                    "Você opta por um comportamento sustentável ao usar suas próprias sacolas, mas sem pressionar os outros.",
+                    "Seu exemplo silencioso, no entanto, começa a inspirar alguns a fazer o mesmo."
                 ],
                 proxima: 1,
-            }
+            },
         ]
     },
     {
-        enunciado: "Na escola, sua professora de ciências anuncia um projeto sobre reciclagem e sustentabilidade. Ela pede que vocês escolham uma iniciativa para implementar na comunidade. O que você decide fazer?",
+        enunciado: "Na escola, surge um projeto de criação de hortas comunitárias. Qual é sua reação a esse projeto?",
         alternativas: [
             {
-                texto: "Organizar uma coleta seletiva em parceria com os vizinhos.",
+                texto: "Ofereço-me para liderar a implementação da horta.",
                 afirmacao: [
-                    "Você mobilizou a comunidade para coletar recicláveis e ajudar a reduzir o lixo.",
-                    "Viu o impacto positivo de suas ações ao ver mais materiais sendo reaproveitados."
+                    "Você toma a liderança do projeto, organizando a comunidade para plantar e manter a horta.",
+                    "A horta se torna um exemplo de como pequenas ações podem transformar o ambiente e unir a comunidade."
                 ],
                 proxima: 2,
             },
             {
-                texto: "Criar um jardim comunitário usando compostagem.",
+                texto: "Participo ajudando na manutenção, mas sem assumir grandes responsabilidades.",
                 afirmacao: [
-                    "Você ajudou a criar um espaço verde, reaproveitando resíduos orgânicos e incentivando a agricultura urbana.",
-                    "O jardim comunitário trouxe mais vida e sustentabilidade para o bairro."
+                    "Você contribui para o sucesso da horta, mas prefere seguir as orientações dos outros.",
+                    "Seu trabalho ajuda a manter a horta produtiva e educa a comunidade sobre a importância da agricultura urbana."
                 ],
                 proxima: 2,
-            }
+            },
         ]
     },
     {
-        enunciado: "Em uma aula de geografia, discutem-se as mudanças climáticas e o aquecimento global. A professora pergunta o que você acha ser a maior prioridade para combater essas questões. Qual é sua resposta?",
+        enunciado: "Você descobre que o rio perto da sua casa está poluído por lixo jogado pelas pessoas. O que você faz?",
         alternativas: [
             {
-                texto: "Reduzir o uso de combustíveis fósseis.",
+                texto: "Organizo uma limpeza coletiva do rio e crio campanhas educativas.",
                 afirmacao: [
-                    "Você acredita que diminuir a dependência de energia suja é crucial para reduzir o impacto ambiental.",
-                    "Viu como a adoção de fontes de energia renovável pode transformar o planeta."
+                    "Você lidera uma grande iniciativa de limpeza do rio, envolvendo a comunidade e aumentando a conscientização.",
+                    "A água do rio começa a clarear, e o impacto da sua ação traz esperança para a regeneração do ecossistema."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Preservar as florestas e os ecossistemas naturais.",
+                texto: "Começo a recolher o lixo por conta própria e evitar a poluição.",
                 afirmacao: [
-                    "Você defende a proteção de áreas verdes como parte essencial da luta contra as mudanças climáticas.",
-                    "Entendeu que sem florestas, os ecossistemas perdem seu equilíbrio natural."
+                    "Você decide agir individualmente, recolhendo o lixo regularmente e mantendo a área limpa.",
+                    "Sua persistência inspira alguns outros moradores a seguirem seu exemplo, e o volume de lixo no rio diminui."
                 ],
                 proxima: 3,
-            }
+            },
         ]
     },
     {
-        enunciado: "Durante uma visita a um centro de reciclagem, você descobre que muitos produtos recicláveis ainda acabam em aterros sanitários. Como você responde a essa situação?",
+        enunciado: "Em um evento comunitário, há a opção de alimentos orgânicos e convencionais. Qual a sua escolha?",
         alternativas: [
             {
-                texto: "Propor novas campanhas de conscientização para a reciclagem correta.",
+                texto: "Escolho alimentos orgânicos e explico os benefícios para os outros.",
                 afirmacao: [
-                    "Você lidera um movimento para educar mais pessoas sobre a reciclagem adequada e seu impacto.",
-                    "A conscientização começou a mudar o comportamento de consumo na sua comunidade."
+                    "Você opta pelos alimentos orgânicos e educa as pessoas sobre os benefícios para a saúde e o meio ambiente.",
+                    "Sua escolha incentiva outras pessoas a refletirem sobre suas próprias dietas e o impacto que elas têm no planeta."
                 ],
                 proxima: 4,
             },
             {
-                texto: "Buscar alternativas de reutilização antes mesmo da reciclagem.",
+                texto: "Escolho o que parece mais acessível, sem dar muita importância à origem.",
                 afirmacao: [
-                    "Você passou a explorar formas de reaproveitar materiais e reduzir o consumo antes de recorrer à reciclagem.",
-                    "A reutilização virou parte da sua rotina e da comunidade."
+                    "Você opta por alimentos mais acessíveis, mas se compromete a pesquisar mais sobre a diferença entre orgânicos e convencionais.",
+                    "Com o tempo, você passa a incluir mais produtos orgânicos em sua dieta ao perceber os impactos positivos para o meio ambiente."
                 ],
                 proxima: 4,
-            }
+            },
         ]
     },
     {
-        enunciado: "Você e seus amigos estão preparando um projeto final para uma feira de ciências sobre soluções sustentáveis. Um colega sugere usar tecnologia de IA para otimizar o consumo de energia em casa. Qual é sua postura?",
+        enunciado: "Uma campanha local incentiva o uso de bicicletas em vez de carros para trajetos curtos. Como você reage?",
         alternativas: [
             {
-                texto: "Apoiar o uso de IA para melhorar a eficiência energética.",
+                texto: "Participo ativamente, usando a bicicleta para a maioria dos meus deslocamentos.",
                 afirmacao: [
-                    "Você acredita que a tecnologia pode ajudar a diminuir o desperdício de energia e apoiar práticas mais sustentáveis.",
-                    "O uso de IA ajudou a identificar áreas de desperdício e melhorar a eficiência energética."
+                    "Você adota a bicicleta como principal meio de transporte, reduzindo sua pegada de carbono.",
+                    "A campanha cresce, e você se torna um exemplo de mobilidade sustentável em sua cidade."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Buscar soluções naturais, como painéis solares ou telhados verdes.",
+                texto: "Apóio a ideia, mas uso a bicicleta apenas ocasionalmente.",
                 afirmacao: [
-                    "Você prefere integrar tecnologias sustentáveis diretamente, como energia solar e telhados verdes, ao invés de depender apenas de IA.",
-                    "As soluções naturais foram bem aceitas e integradas ao projeto."
+                    "Embora não use a bicicleta todos os dias, você contribui para o movimento e ajuda a espalhar a mensagem.",
+                    "Seu envolvimento faz com que mais pessoas considerem essa alternativa para o transporte sustentável."
                 ],
                 proxima: 5,
-            }
+            },
         ]
     }
 ];
